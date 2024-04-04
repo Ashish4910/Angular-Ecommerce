@@ -1,0 +1,9 @@
+package com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.Dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.entity.ProductCategory;
+
+public interface ProductCategoryRepository extends JpaRepository<ProductCategory, Long>{
+
+}

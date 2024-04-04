@@ -1,0 +1,7 @@
+package com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.Dao;
+
+import com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.entity.vinayak;
+
+public class sumit extends vinayak {
+
+}

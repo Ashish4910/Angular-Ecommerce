@@ -1,0 +1,10 @@
+package com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name=product)
+public class Product {
+
+}

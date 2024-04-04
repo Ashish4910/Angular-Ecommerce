@@ -1,0 +1,8 @@
+package com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.entity;
+
+public class vinayak {
+
+	void sumit(){
+		System.out.println("sdfhgshdf");
+	}
+}

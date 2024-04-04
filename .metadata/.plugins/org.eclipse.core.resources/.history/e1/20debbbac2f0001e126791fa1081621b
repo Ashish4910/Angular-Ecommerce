@@ -1,0 +1,12 @@
+package com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.entity;
+
+import jakarta.persistence.Entity;
+import lombok.Getter;
+import lombok.Setter;
+
+@Entity
+@Getter
+@Setter
+public class ProductCategory {
+
+}

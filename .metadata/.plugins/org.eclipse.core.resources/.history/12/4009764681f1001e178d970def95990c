@@ -1,0 +1,15 @@
+package com.Angular_With_Spring_Ecommerce.Angular_With_Spring_Ecommerce.config;
+
+import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
+import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;
+import org.springframework.web.servlet.config.annotation.CorsRegistry;
+
+public class MyDataRest implements RepositoryRestConfigurer {
+
+public void configureRepositoryRestConfiguration(RepositoryRestConfiguration config, CorsRegistry cors) {
+	// TODO Auto-generated method stub
+	public void configureRepositoryRestConfiguration(RepositoryRestConfigurer ) {
+}
+}
+
+}
